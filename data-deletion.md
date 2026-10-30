@@ -4,7 +4,7 @@ title: Account & Data Deletion — MoneyManager
 
 # Deleting your MoneyManager account and data
 
-**Last updated: 28 October 2026**
+**Last updated: 30 October 2026**
 
 This page explains how to delete your MoneyManager account and the data linked to it.
 
@@ -20,7 +20,9 @@ This immediately and permanently deletes:
 - your receipt photos;
 - the data stored on that device.
 
-It cannot be undone. Signing in with Google again later starts a new, empty account.
+It also deletes your subscription record at RevenueCat. It cannot be undone. Signing in with Google again later starts a new, empty account.
+
+**Deleting your account does not cancel a MoneyManager Pro subscription.** Cancel it in **Google Play → Subscriptions** so you are not charged again.
 
 ## Request deletion by email
 
@@ -34,6 +36,8 @@ If you no longer have the app installed, email **devopsmarkaz@gmail.com** from t
 ## Using the app without an account
 
 If you never signed in, we hold no data about you — everything is stored only on your device. Delete it with **Settings → Privacy & data → Erase data**, or by uninstalling the app.
+
+In the free version, Google AdMob may hold advertising data linked to your device's advertising ID. Reset or delete that ID in **Android Settings → Privacy → Ads**.
 
 ## Delete only some of your data
 
